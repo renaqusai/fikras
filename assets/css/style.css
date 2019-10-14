@@ -147,7 +147,7 @@ footer{
 }
 @media screen and (max-width: 500px){
     body{
-        width: 500px;
+        width: 450px;
         font-size: 90%
     }
     header{
