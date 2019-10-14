@@ -2,11 +2,17 @@ body{
     background-color: antiquewhite;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    width: auto;
+    width: 98%;
     font-style: italic;
     font-stretch: expanded;
     color: rgb(61, 55, 53);
     font-weight: bold;
+    margin-left: 10px;
+    background-image: url(../images/Screen\ Shot\ 2019-10-14\ at\ 10.52.00\ AM.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    
 }
 header{
     background-color: rgb(245, 125, 125);
@@ -26,7 +32,6 @@ button{
     background-color: rgb(245, 125, 125);
     border: 1px;
     box-shadow: 10px 5px gray;
-    margin-right: 10px;
 
 }
 .navbutton{
