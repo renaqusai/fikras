@@ -156,6 +156,7 @@ footer{
 @media screen and (max-width: 500px){
     body{
         width: 500px;
+        background-size: 500px 300px;
     }
     header{
         width: 90%;
@@ -193,5 +194,6 @@ footer{
 }
 img{
     width: 400px;
+    height: auto;
 }
 }
