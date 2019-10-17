@@ -18,12 +18,13 @@ header{
     margin-top: 10px;
     margin-left: 10px;
     width: 98%;
-    text-align: center;
+    text-align: auto;
     box-shadow: 10px 5px rgba(109, 10, 238, 0.39);
 }
 nav{
-    text-align: end;
+    text-align: center;
     margin-top: 10px;
+    margin-left: 10px;
     width: 98%;
     color: rgb(208, 235, 250);
     font-weight: bold;
@@ -69,11 +70,11 @@ section{
 }
 footer{
     background-color: rgba(16, 132, 241, 0.835);
-    margin-top: 10px;
     margin-left: 10px;
     width: 98%;
     box-shadow: 10px 5px rgba(109, 10, 238, 0.39);
     text-align: end;
+    margin-bottom: 10px;
 }
 #watermark{
     opacity: 0.5;
