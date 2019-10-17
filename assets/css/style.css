@@ -9,8 +9,8 @@ body{
     margin-left: 10px;
     background-image: url(../images/fikras.logo.png);
     background-position: center;
-    background-repeat: repeat;
-    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 header{
@@ -18,7 +18,7 @@ header{
     margin-top: 10px;
     margin-left: 10px;
     width: 98%;
-    box-shadow: 10px 5px gray;
+    box-shadow: 10px 5px rgba(109, 10, 238, 0.39);
 }
 nav{
     text-align: end;
@@ -29,14 +29,14 @@ nav{
 }
 button{
     border: 1px;
-    box-shadow: 10px 5px gray;
+    box-shadow: 10px 5px rgba(109, 10, 238, 0.39);
     background-color: rgba(16, 132, 241, 0.835);
 
 }
 .navbutton{
     background-color: rgba(16, 132, 241, 0.835);
     border: 1px;
-    box-shadow: 10px 5px gray;
+    box-shadow: 10px 5px rgba(109, 10, 238, 0.39);
     font-style: italic;
     color: rgb(208, 235, 250);
     font-weight: bold;
@@ -62,15 +62,16 @@ section{
 
 }
 .contact{
-    text-align: end;
+    text-align: right;
     margin-top: 50px;
+    margin-right: 20px;
 }
 footer{
     background-color: rgba(16, 132, 241, 0.835);
     margin-top: 10px;
     margin-left: 10px;
     width: 98%;
-    box-shadow: 10px 5px gray;
+    box-shadow: 10px 5px rgba(109, 10, 238, 0.39);
     text-align: end;
 }
 #watermark{
