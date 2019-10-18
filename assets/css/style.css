@@ -142,9 +142,9 @@ footer{
         text-align: end; 
 }
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 400px){
     body{
-        width: 500px;
+        width: 400px;
     }
     header{
         width: 90%;
