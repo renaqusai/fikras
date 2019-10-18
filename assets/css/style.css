@@ -55,7 +55,7 @@ section{
     width: 60%;
     height: 100px;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 350px;
     margin-top: 50px;
     background-color: rgba(16, 132, 241, 0.835);
     font-style: italic;
@@ -84,9 +84,9 @@ footer{
 #watermark{
     opacity: 0.5;
 }
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 980px){
     body{
-        width: 1200px;
+        width: 980px;
     }
     header{
         width: 95%;
@@ -113,9 +113,9 @@ footer{
         text-align: end; 
 }
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width: 640px){
     body{
-        width: 800px;
+        width: 640px;
     }
     header{
         width: 92%;
@@ -145,6 +145,7 @@ footer{
 @media screen and (max-width: 400px){
     body{
         width: 400px;
+        background-size: cover;
     }
     header{
         width: 90%;
@@ -158,7 +159,7 @@ footer{
         width: 60%;
         height: auto;
         text-align: center;
-        margin-left: 50px;
+        /* margin-left: 50px; */
     
     }
     .contact{
